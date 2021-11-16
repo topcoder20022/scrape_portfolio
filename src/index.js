@@ -39,11 +39,11 @@ async function downloadImage(url, filename) {
 
   for await (const line of lineReader) {
     let arr = line.split(comma);
-    console.log("===============", line)
+    console.log("************************************", line)
     if (arr.length == 3) {
       let id = arr[0];
       let country = arr[1];
-      let logo = arr[2];
+      // let logo = arr[2];
 
       try {
         const res = await got(url + id);
@@ -75,6 +75,8 @@ async function downloadImage(url, filename) {
           var ans = pad.substring(0, pad.length - str.length) + str;
           // console.log(ans);
           let pPath = path + country + "-" + id + "-" + ans + ".jpg";
+          console.log("=====file name===", pPath);
+          console.log("======url======", image);
           await downloadImage(image, pPath);
         });
 
