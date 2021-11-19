@@ -39,7 +39,7 @@ async def scrape_profile(a_username, list1):
         block = username + ',' + country.split(' ')[1] + ',' + logo
         # print(block)
         list1.append(block)
-        textfile1 = open("data1.txt", "a")
+        textfile1 = open("ids.txt", "a")
         # print(list1)
         # for block in list1:
         textfile1.write(block + "\n")
