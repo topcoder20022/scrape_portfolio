@@ -620,4 +620,3 @@ Penmate,bangladesh,https://cdn5.f-cdn.com/ppic/171009050/logo/44847965/pVilT/pro
 Penmate,bangladesh,https://cdn5.f-cdn.com/ppic/171009050/logo/44847965/pVilT/profile_logo_.png
 MaksimKholin,russian,https://cdn5.f-cdn.com/ppic/183185884/logo/54217395/8qOxP/profile_logo_RMRDA_a1e18a23e6d4701547a5dabdb985a684.jpg
 GioiDang,vietnam,https://cdn3.f-cdn.com/ppic/177924539/logo/57092212/0ecqj/profile_logo_XGXMU_f75dc3392b3823ccbba56e8aa2a96ffc.jpg
-MaksimKholin,russian,https://cdn5.f-cdn.com/ppic/183185884/logo/54217395/8qOxP/profile_logo_RMRDA_a1e18a23e6d4701547a5dabdb985a684.jpg
